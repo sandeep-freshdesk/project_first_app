@@ -1,5 +1,6 @@
 == Welcome to Rails
-
+ this is first tutorial to learn rails
+ and right now we are editing the readme file after changing its name
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
