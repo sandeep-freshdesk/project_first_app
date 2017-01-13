@@ -1,4 +1,10 @@
 FirstApp::Application.routes.draw do
+
+  puts "came to routers file"
+  resources :microposts
+
+  resources :users
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
